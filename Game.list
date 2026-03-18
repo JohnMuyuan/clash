@@ -8,6 +8,11 @@ DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-KEYWORD,mojang
 DOMAIN-KEYWORD,minecraft
 DOMAIN-KEYWORD,xbox
+DOMAIN-SUFFIX,hivebedrock.network
+DOMAIN-SUFFIX,thehive.net
+DOMAIN-KEYWORD,hivebedrock
+DOMAIN-KEYWORD,thehive
+DOMAIN-KEYWORD,playhive
 
 #  Steam的CDN域名
 DOMAIN-KEYWORD,steamcontent.com
